@@ -12,5 +12,5 @@ example
 ----
 
 ```
-tacmd viewsit -s <situation> | python fmt_viewsit
+tacmd viewsit -s <situation> | python fmt_viewsit.py
 ```
